@@ -1,0 +1,9 @@
+[submodule "rvision"]
+	path = rvision
+	url = https://github.com/mpeshehonov/rvision
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/mpeshehonov/rvision
+[submodule "FrontEnd2"]
+	path = FrontEnd2
+	url = https://github.com/mpeshehonov/rvision
